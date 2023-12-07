@@ -77,10 +77,6 @@ A local server with sample data supports user registration and CRUD operations. 
 Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Special thanks to [SoftUni](https://softuni.org/) for providing the project scaffold and resources.
